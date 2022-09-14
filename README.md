@@ -1,2 +1,2 @@
-# Barny-Claus.github.io
-a
+# Slide Potentiometer
+A senak peak to sensor
