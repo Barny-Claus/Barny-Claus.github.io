@@ -1,2 +1,2 @@
 # Slide Potentiometer
-A senak peak to sensor
+A sneak peek to sensor
