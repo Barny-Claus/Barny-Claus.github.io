@@ -16,4 +16,6 @@ El potenciómetro es un sensor de deslizamiento lineal potenciómetro de posici�
 Respectivamente arriba a la izquierda nos encontraremos con el cable de alimentación, a la derecha, en solitario, el conector a tierra que concluye el circuito de todos los componentes. Mientras que a la izquierda, por debajo, tenemos la conexión a datos que enviará la información del potenciómetro a nuestra placa. Este componente es útil al enviar datos precisos acerca de la graduación del nivel.
 
 
+
+![](https://images.cooltext.com/5553830.png)
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
