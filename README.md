@@ -11,4 +11,4 @@
 ## Características
 El potenciómetro es un sensor de deslizamiento lineal potenciómetro de posición lo cual encuentra datos según el desplazamiento del mismo. Este posee tres conexiones, para obtener datos, potencia y completar el circuito en tierra. A continuación veremos la imagen que tiene este potenciómetro en el simulador wokwi.
 
-imagen del simulador wokwi
+![imagen del simulador wokwi](https://github.com/Barny-Claus/Slide-Potentiometer/blob/main/Potenciometro.JPG)
